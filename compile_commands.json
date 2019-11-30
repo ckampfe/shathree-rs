@@ -1,0 +1,13 @@
+[
+    {
+        "arguments": [
+            "cc", 
+            "-c", 
+            "-o", 
+            "shathree.dylib", 
+            "shathree.c"
+        ], 
+        "directory": "/Users/clark/code/shathreers", 
+        "file": "shathree.c"
+    }
+]
